@@ -1,0 +1,33 @@
+# Laravel & PHP-specific files
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/storage/app/.cache
+/.env
+/.env.*
+/phpunit.result.cache
+/.vscode/
+/.idea/
+/*.log
+
+# Composer
+composer.lock
+
+# Laravel IDE helper
+_ide_helper.php
+_ide_helper_models.php
+
+# Laravel logs
+/storage/logs/*
+
+# Caches and compiled files
+/bootstrap/cache/*
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+# Composer PHAR (if you're using the composer PHAR file)
+composer.phar
+
+#

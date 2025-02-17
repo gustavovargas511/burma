@@ -1,0 +1,8 @@
+1.- Propiedad de un objeto que al ser creado, ya no se puede modificar.
+    Ejemplo, una const en Javascript
+
+2.- 
+
+3.- una guia o plantilla para trabajar, d manera que pueda ser reutilizada o estandarizar, en este caso, la creación de sofware
+
+4.- para evitar un ataque de tipo "suplantación de identidad" a una página, y evitar que se hagan modoificaciones, por usuarios no indentificados.
